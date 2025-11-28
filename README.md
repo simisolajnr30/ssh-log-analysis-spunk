@@ -8,8 +8,7 @@ What I did:
 I searched and returned only SSH logs, then grouped them by event_type to see how many logs exist in each category.
 
 Query:
-index=ssh_logs
-| stats count by event_type
+source=ssh_logs | stats count by event_type
 
 ❌ 2. Analyze Failed Login Attempts
 
