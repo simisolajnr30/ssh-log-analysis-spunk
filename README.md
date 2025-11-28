@@ -9,6 +9,5 @@ To analyze SSH logs and provide visibility into authentication activity, detect 
 
 🛠 Tools Used
 
-Splunk Enterprise
-
-SSH Logs Dataset (ssh_logs)
+1. Splunk Enterprise
+2. SSH Logs Dataset (ssh_logs)
