@@ -56,14 +56,14 @@ index=ssh_logs event_type="Connection Without Authentication"
 
 ---
 
-![ssh 1](ssh%201.png)
+![ssh 1](ssh%20log%20analysis-splunk/screenshots/ssh%201.png)
 
-![ssh 2](ssh%202.png)
+![ssh 2](ssh%20log%20analysis-splunk/screenshots/ssh%202.png)
 
-![ssh 3](ssh%203.png)
+![ssh 3](ssh%20log%20analysis-splunk/screenshots/ssh%203.png)
 
-![ssh 4](ssh%204.png)
+![ssh 4](ssh%20log%20analysis-splunk/screenshots/ssh%204.png)
 
-![ssh 5](ssh%205.png)
+![ssh 5](ssh%20log%20analysis-splunk/screenshots/ssh%205.png)
 
-![ssh 6](ssh%206.png)
+![ssh 6](ssh%20log%20analysis-splunk/screenshots/ssh%206.png)
