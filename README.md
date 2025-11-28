@@ -56,23 +56,14 @@ index=ssh_logs event_type="Connection Without Authentication"
 
 ---
 
-## SSH Screenshots
+![ssh 1](ssh%201.png)
 
-### SSH 1
-![SSH Screenshot 1](./screenshots/ssh_1.png)
+![ssh 2](ssh%202.png)
 
-### SSH 2
-![SSH Screenshot 2](./screenshots/ssh_2.png)
+![ssh 3](ssh%203.png)
 
-### SSH 3
-![SSH Screenshot 3](./screenshots/ssh_3.png)
+![ssh 4](ssh%204.png)
 
-### SSH 4
-![SSH Screenshot 4](./screenshots/ssh_4.png)
+![ssh 5](ssh%205.png)
 
-### SSH 5
-![SSH Screenshot 5](./screenshots/ssh_5.png)
-
-### SSH 6
-![SSH Screenshot 6](./screenshots/ssh_6.png)
-
+![ssh 6](ssh%206.png)
