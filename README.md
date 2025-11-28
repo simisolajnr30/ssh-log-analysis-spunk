@@ -56,4 +56,3 @@ index=ssh_logs event_type="Connection Without Authentication"
 
 ---
 
-https://raw.githubusercontent.com/username/repo/main/screenshots/ssh%201.png
