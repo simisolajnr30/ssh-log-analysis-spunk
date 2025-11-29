@@ -55,9 +55,9 @@ index=ssh_logs event_type="Connection Without Authentication"
 ```
 
 ---
-![SSH 1](screenshot/ssh/ssh-1.png)
-![SSH 2](screenshot/ssh/ssh-2.png)
-![SSH 3](screenshot/ssh/ssh-3.png)
-![SSH 4](screenshot/ssh/ssh-4.png)
-![SSH 5](screenshot/ssh/ssh-5.png)
-![SSH 6](screenshot/ssh/ssh-6.png)
+![image](ssh-1.png)
+![image](ssh-2.png)
+![image](ssh-3.png)
+![image](ssh-4.png)
+![image](ssh-5.png)
+![image](ssh-6.png)
