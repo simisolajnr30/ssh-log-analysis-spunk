@@ -63,3 +63,10 @@ index=ssh_logs event_type="Connection Without Authentication"
 ![image](ssh-4.png)
 ![image](ssh-5.png)
 ![image](ssh-6.png)
+
+
+## Conclusion
+
+By the end of this project, I successfully built Splunk dashboards to monitor SSH activity and detect abnormal behavior. I was able to identify brute-force attempts, spikes in failed authentications, and other suspicious login patterns. I also configured alerts to automatically flag high-risk events, allowing faster detection and response to potential threats.
+
+Throughout this lab, I learned how to parse, search, visualize, and alert on SSH logs using Splunk. These hands-on techniques mirror real SOC Analyst workflows and significantly strengthen my cybersecurity portfolio.
